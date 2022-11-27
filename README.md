@@ -20,9 +20,12 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 #### Extras : Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawkto, Font Awesome, JSON, etc.
 
 ## 📌 Sneak Peek of Main Page:
-![mockup720](./assests/images/Screenshot%20(194).png)
-![skillsmockup](./assests/images/Screenshot%20(195).png)
-![mockup720](./assests/images/Screenshot%20(197).png)
+![mockup720](./assests/images/<img width="960" alt="MVM" src="https://user-images.githubusercontent.com/116005763/204126753-f5e2dca1-322e-4155-b9ae-d617f086403f.png">
+.png)
+![skillsmockup](./assests/images/<img width="960" alt="skills" src="https://user-images.githubusercontent.com/116005763/204126774-b8e1cf7c-c586-41d6-9224-b7bcf64ad483.png">
+.png)
+![Certifications](./assests/images/<img width="960" alt="certifications" src="https://user-images.githubusercontent.com/116005763/204126783-b89263e6-753e-457b-ad80-866c6ab14e40.png">
+.png)
 
 <h2>📬 Contact</h2>
 
@@ -30,10 +33,11 @@ If you want to contact me, you can reach me through below handles.
 
 <div align="center">
 
-<a  href="https://www.youtube.com/channel/UCYGVtIgQIAChKBWBmChxzJw" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
-<a  href="https://www.linkedin.com/in/sauravmukherjee44/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/mesourav44" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
-<a href="mailto:mesouravofficial@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a  href="https://github.com/GCPProject121" target="_blank"><img alt="LinkdIn" src="![image](https://user-images.githubusercontent.com/116005763/204126954-d435d008-27e9-4c0a-bbeb-12349c706399.png)" /></a>
+<a  href="https://www.linkedin.com/in/vanamali-matha-811035232/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="twitter" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
+<a href="Medium" target="_blank"><img alt="Medium" src="![image](https://user-images.githubusercontent.com/116005763/204127014-2384b80d-4f9f-41e1-931a-982390acb140.png)" /></a>  
+<a href="mailto:mathavanamali121@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 </div>
 
